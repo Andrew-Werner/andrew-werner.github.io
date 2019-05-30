@@ -2,182 +2,182 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creative portfolio</title>
-    <link>//localhost:1313/</link>
+    <link>https://andrew-werner.github.io/</link>
     <description>Recent content on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrew-werner.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/01/</link>
+      <link>https://andrew-werner.github.io/portfolio/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/01/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/01/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/02/</link>
+      <link>https://andrew-werner.github.io/portfolio/02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/02/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/02/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/03/</link>
+      <link>https://andrew-werner.github.io/portfolio/03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/03/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/03/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/04/</link>
+      <link>https://andrew-werner.github.io/portfolio/04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/04/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/04/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/05/</link>
+      <link>https://andrew-werner.github.io/portfolio/05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/05/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/05/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/06/</link>
+      <link>https://andrew-werner.github.io/portfolio/06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/06/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/06/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/07/</link>
+      <link>https://andrew-werner.github.io/portfolio/07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/07/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/07/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/08/</link>
+      <link>https://andrew-werner.github.io/portfolio/08/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/08/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/08/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/09/</link>
+      <link>https://andrew-werner.github.io/portfolio/09/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/09/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/09/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/10/</link>
+      <link>https://andrew-werner.github.io/portfolio/10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/10/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/10/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/11/</link>
+      <link>https://andrew-werner.github.io/portfolio/11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/11/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/11/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/12/</link>
+      <link>https://andrew-werner.github.io/portfolio/12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/12/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/12/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/13/</link>
+      <link>https://andrew-werner.github.io/portfolio/13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/13/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/13/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/14/</link>
+      <link>https://andrew-werner.github.io/portfolio/14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/14/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/14/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/15/</link>
+      <link>https://andrew-werner.github.io/portfolio/15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/15/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/15/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/16/</link>
+      <link>https://andrew-werner.github.io/portfolio/16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/16/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/16/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/17/</link>
+      <link>https://andrew-werner.github.io/portfolio/17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/17/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/17/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/18/</link>
+      <link>https://andrew-werner.github.io/portfolio/18/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/18/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/18/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/portfolio/19/</link>
+      <link>https://andrew-werner.github.io/portfolio/19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/portfolio/19/</guid>
+      <guid>https://andrew-werner.github.io/portfolio/19/</guid>
       <description></description>
     </item>
     
