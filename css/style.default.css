@@ -324,7 +324,6 @@ SIDEBAR + RIGHT COLUMN
 */
 #sidebar {
   padding-top: 40px;
-  margin-left: 0.5em;
   width: 40%;
   text-align:center;
 }
@@ -443,6 +442,7 @@ SIDEBAR + RIGHT COLUMN
   clear: both;
 }
 .small-navbar-heading {
+  margin-right: 0.5em;
   float: right;
   font-size: 18px;
   text-transform: uppercase;
