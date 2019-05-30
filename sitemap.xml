@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/01/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/02/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/03/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/04/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/05/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/06/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/07/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/08/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/09/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/10/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/11/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/12/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/13/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/14/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/15/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/16/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/17/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/18/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/19/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
